@@ -93,7 +93,8 @@ These are located in the `/example_data/` folder and can be used as templates fo
 
 ```
 /cellprofiler/
-  └── CMVision_pipeline.cppipe          # Image processing pipeline
+  └── step1_WellsFromPlates.cpproj             # Image processing pipeline : Plate to wells
+  └── step2_QuantifyWellsSpots.cpproj          # Image processing pipeline : Wells to measurements per spot per well
 
 /scripts/
   ├── step1_processData.R               # Feature extraction & scoring
