@@ -115,7 +115,7 @@ These are located in the `/example_data/` folder and can be used as templates fo
 If you use **CMVision** in your research, please cite:
 
 > Bhatt DK, Joshi M, Visscher F, Boerma A, van Baarle D. *Impact of CMV Infection and Prior Cancer Therapies on Vaccine Efficacy in Oncology Patients.* BioRxiv. 2025.  
-> [https://doi.org/10.1101/2025.XX.XX](https://biorxiv.org/placeholder-link)
+> [https://www.medrxiv.org/content/10.1101/2025.08.21.25334174v1](https://biorxiv.org/placeholder-link)
 
 ---
 
