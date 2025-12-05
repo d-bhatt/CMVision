@@ -10,8 +10,8 @@ CMVision is an open-source multi-feature scoring pipeline for ELISpot image anal
 ---
 
 ## 📌 Overview
+<img src="example_data/CMVision_ov.png">
 
-Figure 1 (above) summarizes the pipeline: from image input to feature extraction and score computation.
 
 **Figure:** Overview of the CMVision pipeline for ELISpot image analysis and composite scoring.  
 (A) ELISpot plate images are processed using CellProfiler to extract biologically meaningful features from each well—such as spot count, well occupancy, and intensity metrics. These are used to compute five scoring systems that better reflect immune activity than simple spot enumeration.  
